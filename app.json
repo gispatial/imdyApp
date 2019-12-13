@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ImdyApp",
+    "slug": "imdy-app-img-editor",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Imdy The Holy React-Native's Pwa App - Img Editor | Ver-1.0.0 | An App Documentation Built for my Son Imdy' (R. Imran Haidy) for His Case Study in Architecture(UITM-PA)",
+    "githubUrl": "https://github.com/gispatial/imdyApp"
+  }
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
