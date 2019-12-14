@@ -1,5 +1,6 @@
 # Imdy/App
 An App Documentation Built for my Son Imdy' (R. Imran Haidy) for His Case Study in Architecture(UITM-PA)
+<img src="https://github.com/gispatial/imdyApp/blob/master/HomeDash.png" width="80%">
 
 
 ## Install
